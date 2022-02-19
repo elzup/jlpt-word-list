@@ -1,2 +1,0 @@
-black==19.10b0
-genanki==0.8.0

@@ -1,19 +1,9 @@
 {
-  "name": "open-anki-jlpt-decks",
+  "name": "jlpt-word-list",
   "version": "0.1.1",
-  "description": "Open source and updatable JLPT Anki Decks",
-  "main": "index.js",
-  "repository": "git@github.com:jamsinclair/open-anki-jlpt-decks.git",
-  "author": "jamsinclair <jamsinclairnz@gmail.com>",
+  "description": "Japanese word list from JLPT vocabulary",
+  "author": "elzup",
   "license": "MIT",
-  "scripts": {
-    "generate-screenshots": "scripts/templates-serve.js & (sleep 2 && scripts/templates-screenshot.js && kill -9 $(pgrep -f templates-serve))",
-    "format": "prettier-standard **/*.js --format",
-    "lint": "prettier-standard  **/*.js --lint"
-  },
-  "devDependencies": {
-    "express": "^4.17.1",
-    "prettier-standard": "^16.2.1",
-    "puppeteer": "^2.1.1"
-  }
+  "scripts": {},
+  "devDependencies": {}
 }
