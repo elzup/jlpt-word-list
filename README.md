@@ -8,6 +8,11 @@
 - [**N4 Vocabulary List**](src/n4.csv)
 - [**N5 Vocabulary List**](src/n5.csv)
 
+- [**N1-N5 All Vocabulary List (505k)**](out/all.csv)
+- [**N1-N5 All Vocabulary List #minimum (162k)**](out/all.min.csv)
+
+`#minimum: only expression,reading column`
+
 ## Acknowledgements
 
 Original deck data was taken from https://github.com/chyyran/jlpt-anki-decks,
