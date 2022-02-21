@@ -16,5 +16,5 @@
 ## Acknowledgements
 
 Original deck data was taken from https://github.com/chyyran/jlpt-anki-decks,
-which were based on decks from tanos.co.uk
+which were based on decks from tanos.co.uk  
 forked from https://github.com/jamsinclair/open-anki-jlpt-decks
